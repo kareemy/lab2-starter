@@ -24,7 +24,7 @@ This repository does not have any starting code. You must create a new C# consol
   ```
   using System;
 
-  namespace lab2_starter
+  namespace lab2_starter // You may have to change this namespace to match yours (in Program.cs)
   {
       public class Widget
       {
@@ -38,7 +38,7 @@ This repository does not have any starting code. You must create a new C# consol
   ```
   using System;
 
-  namespace lab2_starter
+  namespace lab2_starter // You may have to change this namespace to match yours (in Program.cs)
   {
       public class Widget
       {
